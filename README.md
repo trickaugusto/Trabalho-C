@@ -1,2 +1,2 @@
-# Trabalho-C
-Trabalho simples feito em C
+# Trabalho em C
+Trabalho simples em C para reproduzir sons
